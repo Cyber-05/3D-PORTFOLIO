@@ -112,7 +112,7 @@ canvas {
 
 #nav>h3>span {
     -webkit-text-stroke: 0.6px black;
-    color: black;
+    color: transparent;
     font-weight: 500;
 }
 
