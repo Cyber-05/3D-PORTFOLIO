@@ -49,13 +49,13 @@ Portfolio-3D/
 🌐 LIVE DEMO
 -------------------------------------------
 Visit my live portfolio at:
-https://your-username.github.io/Portfolio-3D/
+https://cyber-05.github.io/3D-PORTFOLIO/
 
 -------------------------------------------
 📬 CONTACT ME
 -------------------------------------------
 Email: kulwanthkotagiri@gmail.com 
-GitHub: https://github.com/your-username  
+GitHub: https://github.com/Cyber-05  
 LinkedIn: https://linkedin.com/in/your-username  
 
 -------------------------------------------
