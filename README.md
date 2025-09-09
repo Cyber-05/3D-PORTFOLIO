@@ -49,7 +49,7 @@ Portfolio-3D/
 🌐 LIVE DEMO
 -------------------------------------------
 Visit my live portfolio at:
-https://cyber-05.github.io/3D-PORTFOLIO/
+https://cyber-05.github.io/3D-Portfolio/
 
 -------------------------------------------
 📬 CONTACT ME
