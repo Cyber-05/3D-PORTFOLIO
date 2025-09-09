@@ -54,7 +54,7 @@ https://your-username.github.io/Portfolio-3D/
 -------------------------------------------
 📬 CONTACT ME
 -------------------------------------------
-Email: youremail@example.com  
+Email: kulwanthkotagiri@gmail.com 
 GitHub: https://github.com/your-username  
 LinkedIn: https://linkedin.com/in/your-username  
 
